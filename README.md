@@ -20,6 +20,7 @@ Terraforming Planet เป็นเกมแนว City Building, Strategy ท�
 - Select Unit like RTS
 - Command Single/Multiple Unit
 - Harvest Resources
+- Create More Units
 - Build Extractor, Wind Turbine, Solar Cell, Motherbase
 - Random Spawn Asteroid that generate resource node on impact
 
