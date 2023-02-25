@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb187c3f1f42a047ba8da073c874bf2, type: 3}
+  m_Name: SolarPanel
+  m_EditorClassIdentifier: 
+  buildingName: Solar Cell Panel
+  buildingIcon: {fileID: 21300000, guid: 92af96becfe784e4f94fd168d68b7e3d, type: 3}
+  description: Generates Power during daytime. Closes during nighttime.
+  bt: 2
+  maximumHealth: 100
+  ShieldCapacity: 100
+  EnergyCapacity: 100
+  isNeedWorker: 0
+  ConsumeElectricPower: 0
+  ElectricPowerConsumption: 0
+  ElectricityGeneration: 1
+  GenerateElectricPower: 30
+  overloadConsume: 100
+  overloadGenerate: 100
+  maximumWorker: 16
+  level: 1
+  tier: 1
+  prefab: {fileID: 4301826777327973300, guid: 402902a9700ac70419b0572dcdbf0c30, type: 3}
+  require:
+  - {fileID: 11400000, guid: 5e0ad9dda766b3d4e92714545309c267, type: 2}
+  cost: fa000000
+  constructTime: 60
+  constructPoint: 1000

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b72a534b763886444b114ce1cd5699cb, type: 3}
+  m_Name: Reaper
+  m_EditorClassIdentifier: 
+  crName: Reaper Recipe
+  nrProfile:
+  - {fileID: 11400000, guid: 5e0ad9dda766b3d4e92714545309c267, type: 2}
+  - {fileID: 11400000, guid: d9f226f9620974d4ca39ae30fc46df38, type: 2}
+  requireAmount: 3200000032000000
+  productionTime: 10
+  unitSize: 2
+  product: {fileID: 0}

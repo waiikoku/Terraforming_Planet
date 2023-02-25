@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 381a86626031c9842afa386f9b583264, type: 3}
+  m_Name: BasicBot
+  m_EditorClassIdentifier: 
+  Type: 0
+  WorkerName: Drone
+  Workerprefab: {fileID: 3677524894310849675, guid: 37a7781376096d6418fccc3e76fceb67,
+    type: 3}
+  WorkerImage: {fileID: 21300000, guid: 84c5d2c4b57165144b74ba3c6b579e3b, type: 3}
+  workerDescription: 'Drone''s have multifunction. It''s can construct , harvest ,
+    transport '
+  CommandList:
+  - Idle
+  - Move
+  - Follow
+  maximumHealth: 100
+  shieldCapacity: 100
+  batteryCapacity: 100
+  movementSpeed: 7
+  turnSpeed: 120
+  Constructable: 1
+  constructionSpeed: 2
+  Harvestable: 1
+  harvestSpeed: 20
+  harvestPerTime: 20
+  Researchable: 0
+  researchSpeed: 0
+  Exploreable: 0
+  explorationSpeed: 0
+  Transportable: 1
+  transportSpeed: 3
+  maximumWeight: 100

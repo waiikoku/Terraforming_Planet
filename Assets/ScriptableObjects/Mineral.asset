@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70532bca45e43ab4faf84676f4fc6f2d, type: 3}
+  m_Name: Mineral
+  m_EditorClassIdentifier: 
+  nrName: Mineral
+  nrAmount: 9200
+  nrImage: {fileID: 0}
+  nrTexture: {fileID: 0}
+  nrPrefab: {fileID: 7536212302112769882, guid: d1ab6ffdd1168f74cb585ac84674a879,
+    type: 3}
+  description: Mineral surface deposit can harvest by drone or extract by automatic
+    drill

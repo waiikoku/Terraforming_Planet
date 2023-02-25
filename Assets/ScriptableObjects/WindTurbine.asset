@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb187c3f1f42a047ba8da073c874bf2, type: 3}
+  m_Name: WindTurbine
+  m_EditorClassIdentifier: 
+  buildingName: Wind Turbine
+  buildingIcon: {fileID: 21300000, guid: a7b99f1e851eeba4cbd40035fd9b80a9, type: 3}
+  description: Generates Power. Increased production at high elevations.
+  bt: 2
+  maximumHealth: 100
+  ShieldCapacity: 100
+  EnergyCapacity: 100
+  isNeedWorker: 0
+  ConsumeElectricPower: 0
+  ElectricPowerConsumption: 0
+  ElectricityGeneration: 1
+  GenerateElectricPower: 15
+  overloadConsume: 100
+  overloadGenerate: 100
+  maximumWorker: 16
+  level: 1
+  tier: 1
+  prefab: {fileID: 8326924427690549354, guid: 95be28168801d7e4cafe5d19b9ab6efa, type: 3}
+  require:
+  - {fileID: 11400000, guid: 5e0ad9dda766b3d4e92714545309c267, type: 2}
+  cost: 64000000
+  constructTime: 60
+  constructPoint: 600
