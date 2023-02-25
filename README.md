@@ -6,7 +6,6 @@
 2.ภานุวงศ์ ตันทอง
 3.อนุรักษ์ พักอุดม
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 Terraforming Planet เป็นเกมแนว City Building, Strategy ที่มีธีมเป็นแนวอวกาศ Settingอยู่บนพื้นผิวดาวเคราะห์คล้ายดาวอังคาร
 - เก็บเกี่ยวทรัพยากร
 - สร้างยูนิท
