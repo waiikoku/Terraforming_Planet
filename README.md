@@ -14,6 +14,8 @@ Terraforming Planet เป็นเกมแนว City Building, Strategy ท�
 - สร้างสิ่งก่อสร้างที่อำนวยความสะดวก
 - พัฒนา Colony ของคุณให้ยิ่งใหญ่
 
+![Screenshot_Gameplay](https://user-images.githubusercontent.com/48912221/221333793-e4a89331-baaf-4508-a239-4a1e3adf9e22.png)
+
 ## Features
 - Select Unit like RTS
 - Command Single/Multiple Unit
