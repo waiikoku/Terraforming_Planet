@@ -34,5 +34,8 @@ Terraforming Planet เป็นเกมแนว City Building, Strategy ท�
 | ESC Drive | Pause Menu เล่นต่อและกลับไปยังหน้าหลัก |
 
 ## Code Diagram
-![Code](https://user-images.githubusercontent.com/48912221/221333591-93c6afb5-51d2-49f5-96c6-dd10981c2238.png)
+![Code](https://user-images.githubusercontent.com/48912221/221333622-1d7cc511-5ca3-46cd-af70-618726ad7fe3.png)
+
+## Prefabs
+![Prefabs](https://user-images.githubusercontent.com/48912221/221333634-67c05c39-398c-426a-b713-9f80e300bd14.png)
 
