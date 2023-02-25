@@ -37,7 +37,7 @@ Terraforming Planet เป็นเกมแนว City Building, Strategy ท�
 | Mouse | LMB เลือกวัตถุ, RMB สั่งยูนิทเดินไปยังตำแหน่งที่่คลิก ยกเลิกคำสั่ง |
 | ESC Drive | Pause Menu เล่นต่อและกลับไปยังหน้าหลัก |
 
-## Code Diagram
+## Class Diagram [From ClassDesigner in VisualStudio]
 ![Code](https://user-images.githubusercontent.com/48912221/221333622-1d7cc511-5ca3-46cd-af70-618726ad7fe3.png)
 
 ## Prefabs
