@@ -11,10 +11,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Desert_LevelDesign_GuiV2.unity
     guid: 1e962450da6ad5a4ea58824b430f2092
-  - enabled: 0
-    path: Assets/Scenes/Desert_LevelDesign.unity
-    guid: bc9e8132f3ba0f643b91ac9671492fe5
-  - enabled: 0
-    path: Assets/Scenes/GUI_InGame_001.unity
-    guid: 5cad9331fa562c8409d0b0b794e071d1
   m_configObjects: {}

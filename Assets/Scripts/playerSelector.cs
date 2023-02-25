@@ -34,9 +34,14 @@ public class playerSelector : MonoBehaviour
     public bool MultiSelect;
 
     private bool toggleMenu;
-    private void Start()
+
+    private void Awake()
     {
         instance = this;
+    }
+
+    private void Start()
+    {
         if (useGlobalMouseDelay)
         {
             left_clickdelay = GlobalMouseDelay;

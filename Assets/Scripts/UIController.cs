@@ -6,7 +6,15 @@ using TMPro;
 
 public class UIController : MonoBehaviour
 {
-    public enum ODP_Type { Generator, Factory, Storage , Mainbase , Unit , Item }
+    public enum ODP_Type
+    { 
+        Generator,
+        Factory,
+        Storage,
+        Mainbase,
+        Unit,
+        Item 
+    }
 
     public static UIController instance;
 
@@ -70,7 +78,7 @@ public class UIController : MonoBehaviour
     public Button odp_salvage;
 
     public Button CreateDrone;
-    private void Start()
+    private void Awake()
     {
         instance = this;
     }

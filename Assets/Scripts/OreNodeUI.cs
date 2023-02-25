@@ -19,10 +19,6 @@ public class OreNodeUI : MonoBehaviour
             {
                 selector.SetActive(false);
             }
-            if (!playerSelector.instance.MultiSelect)
-            {
-                OpenDetailUI();
-            }
         }
         if(orenode == null)
         {
